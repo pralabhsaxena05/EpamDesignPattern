@@ -1,35 +1,5 @@
 
 
-Skip to content
-Using GLA University Mail with screen readers
-
-3 of 3,995
-Fwd: EPAM Design pattern assignment
-Inbox
-x
-
-HARSH SAXENA <harsh.saxena_ccv17@gla.ac.in>
-Attachments
-10:00 PM (52 minutes ago)
-to me
-
-
-
-
-
-
-This is the design pattern assignment of epam.
-Create an repository in git and then upload these files and submit the link
- 
-
-this is the task submission link.
-
-https://epa.ms/EPAMPEP2020TaskSubmission
-
- 
-
-6 Attachments
-
 import java.util.HashMap; 
 import java.util.Map; 
   
@@ -113,5 +83,4 @@ class PrototypePatternDemo
         ColorStore.getColor("blue").addColor(); 
     } 
 } 
-PrototypePatternDemo.java
-Displaying PrototypePatternDemo.java.
+
